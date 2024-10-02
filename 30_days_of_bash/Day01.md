@@ -19,11 +19,12 @@ Key points about Bash:
 ## Setting Up the Bash Environment
 
 1. Check your Bash version:
-   bash --version
+
+bash --version
 
 
 
-3. Create a directory for your Bash scripts:
+2. Create a directory for your Bash scripts:
 
 mkdir ~/bash_scripts
 cd ~/bash_scripts
